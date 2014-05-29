@@ -1,0 +1,25 @@
+﻿2014/5/24 18:10:52 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\someg_000\Documents\Visual Studio 2013\Projects\someprog\someprog.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I"C:\wxWidgets-3.0.0\lib\vc_lib\mswu" /I"C:\wxWidgets-3.0.0\include" /I. /I"C:\wxWidgets-3.0.0\samples" /Zi /nologo /W4 /WX- /O2 /Oy- /D WIN32 /D _CRT_SECURE_NO_DEPRECATE=1 /D _CRT_NON_CONFORMING_SWPRINTFS=1 /D _SCL_SECURE_NO_WARNINGS=1 /D __WXMSW__ /D NDEBUG /D _UNICODE /D _WINDOWS /D NOPCH /D _UNICODE /D UNICODE /Gm- /EHsc /MD /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"vc_mswu\someprog\\" /Fd"vc_mswu\someprog.pdb" /Gd /TP /analyze- /errorReport:prompt /MP someprog.cpp
+         someprog.cpp
+     1>someprog.cpp(148): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(162): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(173): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(210): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(214): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(228): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(241): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(263): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(327): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(362): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(374): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(387): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"vc_mswu\someprog.exe" /INCREMENTAL:NO /NOLOGO /LIBPATH:"C:\wxWidgets-3.0.0\lib\vc_lib" wxmsw30u_core.lib wxbase30u.lib wxtiff.lib wxjpeg.lib wxpng.lib wxzlib.lib wxregexu.lib wxexpat.lib kernel32.lib user32.lib gdi32.lib comdlg32.lib winspool.lib winmm.lib shell32.lib comctl32.lib ole32.lib oleaut32.lib uuid.lib rpcrt4.lib advapi32.lib wsock32.lib wininet.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"vc_mswu\someprog.pdb" /SUBSYSTEM:WINDOWS /OPT:REF /OPT:ICF /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"vc_mswu\someprog.lib" /MACHINE:X86 /SAFESEH vc_mswu\someprog\someprog.obj
+         someprog.vcxproj -> C:\Users\someg_000\Documents\Visual Studio 2013\Projects\someprog\vc_mswu\someprog.exe
+     1>プロジェクト "C:\Users\someg_000\Documents\Visual Studio 2013\Projects\someprog\someprog.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:07.91

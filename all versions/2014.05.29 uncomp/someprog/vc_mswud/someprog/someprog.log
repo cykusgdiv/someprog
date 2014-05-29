@@ -1,0 +1,35 @@
+﻿2014/5/29 22:16:42 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\someg_000\Documents\Visual Studio 2013\Projects\someprog\someprog.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /I. /I"C:\wxWidgets-3.0.0\lib\vc_lib\mswud" /I"C:\wxWidgets-3.0.0\include" /I"C:\wxWidgets-3.0.0\samples" /Zi /nologo /W4 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _CRT_SECURE_NO_DEPRECATE=1 /D _CRT_NON_CONFORMING_SWPRINTFS=1 /D _SCL_SECURE_NO_WARNINGS=1 /D __WXMSW__ /D _UNICODE /D _WINDOWS /D NOPCH /D _UNICODE /D UNICODE /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /GR /Fo"vc_mswud\someprog\\" /Fd"vc_mswud\someprog.pdb" /Gd /TP /analyze- /errorReport:prompt /MP someprog.cpp
+         someprog.cpp
+     1>c:\users\someg_000\documents\visual studio 2013\projects\someprog\src\basicVariableObj.h(86): warning C4100: 'dc' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(174): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(188): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(199): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(271): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(275): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(294): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(308): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(323): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(327): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(349): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(407): warning C4552: '/' : 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+     1>someprog.cpp(410): warning C4552: '/' : 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+     1>someprog.cpp(423): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(457): warning C4552: '/' : 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+     1>someprog.cpp(460): warning C4552: '/' : 演算子にプログラム上の作用がありません。作用を伴う演算子を使用してください
+     1>someprog.cpp(491): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(546): warning C4100: 'event' : 引数は関数の本体部で 1 度も参照されません。
+     1>someprog.cpp(558): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(579): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(605): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+     1>someprog.cpp(619): warning C4018: '<' : signed と unsigned の数値を比較しようとしました。
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"vc_mswud\someprog.exe" /INCREMENTAL /NOLOGO /LIBPATH:"C:\wxWidgets-3.0.0\lib\vc_lib" wxmsw30ud_core.lib wxbase30ud.lib wxtiffd.lib wxjpegd.lib wxpngd.lib wxzlibd.lib wxregexud.lib wxexpatd.lib kernel32.lib user32.lib gdi32.lib comdlg32.lib winspool.lib winmm.lib shell32.lib comctl32.lib ole32.lib oleaut32.lib uuid.lib rpcrt4.lib advapi32.lib wsock32.lib wininet.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"vc_mswud\someprog.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /DYNAMICBASE /NXCOMPAT /IMPLIB:"vc_mswud\someprog.lib" /MACHINE:X86 /SAFESEH vc_mswud\someprog\someprog.obj
+         someprog.vcxproj -> C:\Users\someg_000\Documents\Visual Studio 2013\Projects\someprog\vc_mswud\someprog.exe
+     1>プロジェクト "C:\Users\someg_000\Documents\Visual Studio 2013\Projects\someprog\someprog.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:02.86
